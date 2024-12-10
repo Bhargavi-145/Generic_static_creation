@@ -1,0 +1,14 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h1{
+    background-color: darkturquoise;
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;
+}
